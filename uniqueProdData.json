@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Harman Radio",
+    "url": "https://radio.sanbroz.com/radio/8000/radio.mp3",
+    "meta": "INDIA-PUNJABI"
+  },
+  {
+    "name": "Red FM",
+    "url": "https://funasia.streamguys1.com/live9",
+    "meta": "INDIA-MUMBAI-HINDI"
+  },
+  {
+    "name": "Radio City",
+    "url": "https://prclive4.listenon.in/Hindi",
+    "meta": "INDIA-MUMBAI-HINDI"
+  },
+  {
+    "name": "Punjabi FM",
+    "url": "https://prclive4.listenon.in/Punjabi",
+    "meta": "INDIA-PUNJABI"
+  },
+  {
+    "name": "Jaipur FM",
+    "url": "https://streamasiacdn.atc-labs.com/jaipurradio.aac",
+    "meta": "INDIA-HINDI"
+  }
+]

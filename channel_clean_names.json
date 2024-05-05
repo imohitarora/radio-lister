@@ -1,0 +1,497 @@
+[
+    {
+        "id": "0",
+        "name": "Air Vividh Bharti",
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"
+    },
+    {
+        "id": "1",
+        "name": "Red FM - Mumbai",
+        "url": "https://funasia.streamguys1.com/live9"
+    },
+    {
+        "id": "2",
+        "name": "Radio City FM - Mumbai",
+        "url": "https://prclive4.listenon.in/Hindi"
+    },
+    {
+        "id": "3",
+        "name": "Ishq FM - Mumbai",
+        "url": "https://prclive4.listenon.in/Ishq"
+    },
+    {
+        "id": "4",
+        "name": "Punjabi FM - Mumbai",
+        "url": "https://prclive4.listenon.in/Punjabi"
+    },
+    {
+        "id": "5",
+        "name": "Jaipur FM",
+        "url": "https://streamasiacdn.atc-labs.com/jaipurradio.aac"
+    },
+    {
+        "id": "53e1a910-fb05-4d22-9a1c-575ca771e0d8",
+        "name": "60s Forever",
+        "url": "https://stream.zeno.fm/btrks671ynhvv"
+    },
+    {
+        "id": "a36a6ac2-1bb4-4a21-a4ea-c36a64dffcf0",
+        "name": "9xm",
+        "url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+    },
+    {
+        "id": "35753750-c632-4790-a42b-f591b254dd3f",
+        "name": "Aaj Tak News Radio Live",
+        "url": "https://feeds.intoday.in/aajtak/api/master.m3u8"
+    },
+    {
+        "id": "f5c095e7-6517-4175-9203-5b9e907fb821",
+        "name": "Air News 24/7",
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8"
+    },
+    {
+        "id": "c5da7379-b3aa-475b-bd2c-15ca6bc62eeb",
+        "name": "Apna 990 AM",
+        "url": "https://ais-nzme.streamguys1.com/nz_145_aac"
+    },
+    {
+        "id": "f29802a9-049e-4ece-82dc-5a095c3b2ecc",
+        "name": "Arijit Singh",
+        "url": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio"
+    },
+    {
+        "id": "9dff94c7-030a-4f2f-a7ac-1459dc4061ea",
+        "name": "Asian Star Radio",
+        "url": "https://radio.canstream.co.uk:9067/live.mp3"
+    },
+    {
+        "id": "306ff2d4-fb00-48d6-8d6d-0ed40517d8c5",
+        "name": "Asian FX",
+        "url": "https://ukwesta.streaming.broadcast.radio/asianfx"
+    },
+    {
+        "id": "d3960015-c799-4707-9086-c608bdc43a0b",
+        "name": "BBC Asian Network",
+        "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8"
+    },
+    {
+        "id": "5fa33789-c1d3-4679-919d-1c2e3a9902e5",
+        "name": "Bolly 102.9 FM",
+        "url": "https://ice6.securenetsystems.net/INTRADIO?type=.mp3"
+    },
+    {
+        "id": "5be77e39-500c-4ed9-8fa8-cc2ad68928e5",
+        "name": "Bolly 923 FM",
+        "url": "https://stream.zeno.fm/k4hwu4qa4qzuv"
+    },
+    {
+        "id": "0db90d9a-4ecc-450c-b8fa-695405b24587",
+        "name": "Bollywood 2010's",
+        "url": "https://drive.uber.radio/uber/bollywood2010s/icecast.audio"
+    },
+    {
+        "id": "4088a674-566b-4a6e-9712-0fee910cfc5a",
+        "name": "Bollywood And Beyond",
+        "url": "https://s6.yesstreaming.net/proxy/john1237?mp=/live"
+    },
+    {
+        "id": "a0f09d07-716b-4d8f-9c83-23002fc9185c",
+        "name": "Bollywood Dance",
+        "url": "https://drive.uber.radio/uber/bollywooddance/icecast.audio"
+    },
+    {
+        "id": "c784390a-c1c4-4226-a7b9-f6d1bd3ef2ec",
+        "name": "Bollywood Mix",
+        "url": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio"
+    },
+    {
+        "id": "ac70ee9e-c501-4502-bc55-f63be5c6147d",
+        "name": "Bombay Beats Radio",
+        "url": "https://strmreg.1.fm/bombaybeats_mobile_mp3"
+    },
+    {
+        "id": "eaf13335-827f-45df-b9c8-a983b3778bd8",
+        "name": "CHAH \"My Radio 580\" Edmonton, AB",
+        "url": "https://ais-sa1.streamon.fm/7681_64k.mp3"
+    },
+    {
+        "id": "8e474954-1f0c-4b6a-ae2c-10b52753e9fb",
+        "name": "Cina Radio",
+        "url": "https://ice8.securenetsystems.net/CINA"
+    },
+    {
+        "id": "182c11b6-6104-4326-9705-6e0b5ba9e8f3",
+        "name": "City 92 FM",
+        "url": "https://stream.zeno.fm/bauwkrnqhxhvv"
+    },
+    {
+        "id": "94f5f342-7020-4171-8356-fe512527bb51",
+        "name": "Club Asia Radio",
+        "url": "https://s3.citrus3.com:8320/stream"
+    },
+    {
+        "id": "1da63dcc-1cba-433d-81e8-fde6445345d9",
+        "name": "CMR Hindi FM Radio",
+        "url": "https://live.cmr24.net/CMR/Desi_Music-MQ/icecast.audio"
+    },
+    {
+        "id": "e3070cf4-a1ce-4117-8c4b-4b6f82eeccc1",
+        "name": "Desi Maska",
+        "url": "https://ample.radiojar.com/q9rymqdbeyduv"
+    },
+    {
+        "id": "3dbce1d1-f806-4663-ba27-e65c8437c36c",
+        "name": "Dhol Radio",
+        "url": "https://radio.dholradio.co:8000/radio.mp3"
+    },
+    {
+        "id": "5b7687b7-7bef-40ac-b854-81a89c011610",
+        "name": "Diverse FM",
+        "url": "https://carol.epichosts.co.uk:8570/;"
+    },
+    {
+        "id": "9993f035-d84e-4558-9d20-7d5625bb1cab",
+        "name": "Exclusive Bollywood",
+        "url": "https://streaming.exclusive.radio/er/bollywood/icecast.audio"
+    },
+    {
+        "id": "7310ff8f-137c-4a5e-8c5e-046eaf3c8142",
+        "name": "FM 24 Bhiwadi 90.8",
+        "url": "https://streamasiacdn.atc-labs.com/24network.aac"
+    },
+    {
+        "id": "30c7f1fc-48d7-4908-9871-bbdd1e617dea",
+        "name": "Fusion Life Radio",
+        "url": "https://c28.radioboss.fm:18046/stream"
+    },
+    {
+        "id": "87f5c462-31b4-49c5-b30c-84ebad006eec",
+        "name": "Gazal",
+        "url": "https://prclive4.listenon.in/Ghazal"
+    },
+    {
+        "id": "9534e371-74ca-454b-b945-1cfd551eb593",
+        "name": "Gazal Radio London",
+        "url": "https://streaming.webhostnepal.com/8018/stream"
+    },
+    {
+        "id": "240b4276-c453-474c-89d9-71077b0ff88a",
+        "name": "Guru Box Satsang",
+        "url": "https://azura.shoutca.st/radio/8200/radio.mp3"
+    },
+    {
+        "id": "aa77043c-df27-4ea3-b73d-21320e4f549e",
+        "name": "Himal Radio",
+        "url": "https://streaming.webhostnepal.com/8020/stream"
+    },
+    {
+        "id": "7dd71b85-139b-4362-81b1-4206133a517c",
+        "name": "Hindi Gold Radio",
+        "url": "https://azuracast.vibesounds.in:8010/radio.mp3"
+    },
+    {
+        "id": "6b3c4347-ff5b-4d9e-ba9f-aed1510f6cb0",
+        "name": "Hum FM Radio",
+        "url": "https://ice10.securenetsystems.net/HUMFM?playSessionID=DB18F8E2-5A22-4C3F-A030B300FD1B0936"
+    },
+    {
+        "id": "9a3e69a5-e772-4286-8827-d4348f336877",
+        "name": "Ishq FM",
+        "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"
+    },
+    {
+        "id": "cc4235c6-504d-4023-9bf1-a763b159cfe6",
+        "name": "Kadak FM",
+        "url": "https://tinyurl.com/252quhck"
+    },
+    {
+        "id": "b1da3a2a-7dc2-4417-94bd-1ff6d6664d18",
+        "name": "Lotus FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOTUSFM_SC"
+    },
+    {
+        "id": "5b3ce87c-81ee-4b7b-bc07-44a08c29edf2",
+        "name": "Masala Radio",
+        "url": "https://s3.voscast.com:10201/stream.mp3"
+    },
+    {
+        "id": "dd8230be-bc25-4fea-8a73-002ef31f6366",
+        "name": "Meethi Mirchi",
+        "url": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"
+    },
+    {
+        "id": "93493791-0a22-408d-9e6c-97e83c73b841",
+        "name": "Michi 90's Radio",
+        "url": "https://sp14.instainternet.com/8112/stream"
+    },
+    {
+        "id": "6063a76f-80d7-4a66-878e-ae3ae3d2d4a7",
+        "name": "Mirchi - Yo Punjabi",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YPB_PUJ_PSTAAC.m3u8"
+    },
+    {
+        "id": "9c1552ed-46b5-4ff1-bb54-a2e6192805a0",
+        "name": "Mirchi Bay Area",
+        "url": "https://18743.live.streamtheworld.com/SFO_HIN_PSTAAC/HLS/playlist.m3u8"
+    },
+    {
+        "id": "c8700773-8367-4961-a9d2-8150cc07b7c4",
+        "name": "Mirchi FM Fiji",
+        "url": "https://peridot.streamguys1.com:7150/Mirchi"
+    },
+    {
+        "id": "838fbd45-c0be-4c1b-b3f0-1229144cc8ff",
+        "name": "Mirchi Love Hindi",
+        "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio"
+    },
+    {
+        "id": "8500c025-a884-4a3b-822a-f7c65bb92dbe",
+        "name": "Mirchi New Jersey",
+        "url": "https://19013.live.streamtheworld.com/NJS_HIN_ESTAAC/HLS/playlist.m3u8"
+    },
+    {
+        "id": "178025df-c037-4819-8d04-5d0b7440b09a",
+        "name": "Mirchi One 89.6 Qatar / NC, USA",
+        "url": "https://streams.radio.co/s8d06d0298/listen"
+    },
+    {
+        "id": "b586421c-a063-4519-90d1-940399a80ab4",
+        "name": "Mirchi 90s Radio",
+        "url": "https://sp14.instainternet.com/8098/stream"
+    },
+    {
+        "id": "1e30e49a-195c-4a65-93f2-11ea6257e70e",
+        "name": "Radio 90.5 FM",
+        "url": "https://ice42.securenetsystems.net/CR90"
+    },
+    {
+        "id": "b66e058a-4561-4b36-b661-64b086d8b502",
+        "name": "Radio Bula Masti",
+        "url": "https://c7.radioboss.fm:18052/stream"
+    },
+    {
+        "id": "81cdf21d-7385-4e76-9af3-4c02e5d0b422",
+        "name": "Radio Caravan",
+        "url": "https://stream.voxx.pro/radio/8260/radio.mp3"
+    },
+    {
+        "id": "a8172760-2b84-422f-abb9-8582971a5143",
+        "name": "Radio Central 24",
+        "url": "https://philae.shoutca.st/tunein/casper.pls"
+    },
+    {
+        "id": "4a5cb31a-5ebd-42ec-8cc5-adf4c314370c",
+        "name": "Radio Central 24",
+        "url": "https://casper.radioca.st/stream"
+    },
+    {
+        "id": "0cdfecfc-f8fa-4290-adf1-979b931873db",
+        "name": "Radio Chahat",
+        "url": "https://streamer.radio.co/sdb05c0648/listen"
+    },
+    {
+        "id": "703f5b43-61e7-48b5-a665-35d7fadb8f77",
+        "name": "Radio Dehotties",
+        "url": "https://s6.myradiostream.com/:15054/;"
+    },
+    {
+        "id": "2fdfffbe-c3a4-4fef-af22-05f39409046c",
+        "name": "Radio Dhoom",
+        "url": "https://servidor37.brlogic.com:7502/live"
+    },
+    {
+        "id": "47bd7147-2726-4183-837c-07e4fc7f43eb",
+        "name": "Radio Gyansthali 89.6 FM",
+        "url": "https://streamasiacdn.atc-labs.com/gyansthali.aac"
+    },
+    {
+        "id": "5cf36e48-deb8-40d7-9b9e-3ce4be609174",
+        "name": "Radio Hind",
+        "url": "https://azct1.cheapazuracast.xyz/radio/8020/128kbps.mp3"
+    },
+    {
+        "id": "e5614d86-0593-4cb6-b964-3a0ad346efe3",
+        "name": "Radio Maharani",
+        "url": "https://streamasiacdn.atc-labs.com/radiomaharani.aac"
+    },
+    {
+        "id": "cdd3b5a0-47f6-46d5-8209-b78e8b10ff6e",
+        "name": "Radio Mirchi Hindi",
+        "url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream"
+    },
+    {
+        "id": "2634c860-6dc9-4cd3-82b9-5efa11316f43",
+        "name": "Radio Olive",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"
+    },
+    {
+        "id": "a886391c-fca5-4b6e-8344-8dea2cbcc0b8",
+        "name": "Radio Olive Retro",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03_SC"
+    },
+    {
+        "id": "2aee539c-dfee-4ba6-b77c-afc0481cc7bd",
+        "name": "Radio Sajawat",
+        "url": "https://usa3.fastcast4u.com/proxy/radiosajawat?mp=/1"
+    },
+    {
+        "id": "ca1b86b2-9da4-4ee9-8447-5d580adbdcf6",
+        "name": "Radio SBS",
+        "url": "https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs"
+    },
+    {
+        "id": "4c320b13-cc39-480a-8ccc-03d1feee52b6",
+        "name": "Radio SD 90.8 FM",
+        "url": "https://uk2.internet-radio.com/proxy/radiosdapp?mp=/stream"
+    },
+    {
+        "id": "379ac574-e831-4954-ac36-3270556a2314",
+        "name": "Radio Spice 104.9 FM",
+        "url": "https://stream.lava.net.au/au_wa_878fm_radiospice"
+    },
+    {
+        "id": "de7b0868-91ab-4b25-a8dc-9d5f82314212",
+        "name": "Radio Udaan",
+        "url": "https://stream.radioudaan.com/listen/radio_udaan/radio.mp3"
+    },
+    {
+        "id": "e2f0e47d-49b3-4892-9227-9784cdc40df2",
+        "name": "Radio Zindagi",
+        "url": "https://us9.maindigitalstream.com/ssl/RadioZindagi"
+    },
+    {
+        "id": "a2b16c5f-9976-44b0-9626-6f49e5d0133b",
+        "name": "Radio Bolly FM",
+        "url": "https://sp14.instainternet.com/8156/stream"
+    },
+    {
+        "id": "2d9fd8d2-83e5-4527-9abd-b534c644aa98",
+        "name": "Radio Tarana",
+        "url": "https://peridot.streamguys1.com:7150/Tarana.aac"
+    },
+    {
+        "id": "1b17b212-3217-4064-8dcd-5a838022d21a",
+        "name": "Roq Raw Radio",
+        "url": "https://mystation.micast.media/radio/8090/radio.mp3"
+    },
+    {
+        "id": "178bb33f-3588-49c3-8b8e-0b5806cdbaa7",
+        "name": "Sangeet 106.1 FM",
+        "url": "https://www.radiomast.io/stream/22e2c991-fc0c-4242-8cba-0a64d0aea809/listen?_=1"
+    },
+    {
+        "id": "b01369dd-2147-425e-a7a5-bf52f096f3fa",
+        "name": "Sangeet Radio FM 95.1 AM 1460 Houston, TX, US",
+        "url": "https://ice8.securenetsystems.net/SGTRADIO"
+    },
+    {
+        "id": "26aa527a-92ef-4bf0-8a75-c981d2526d4b",
+        "name": "Sayaji FM",
+        "url": "https://sayajifm.radioca.st/stream"
+    },
+    {
+        "id": "57742af1-79d4-4bc7-ae81-b58146638ae7",
+        "name": "Shreya Ghosal",
+        "url": "https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio"
+    },
+    {
+        "id": "8f3abc27-7a60-4abe-ba31-15a2252f5813",
+        "name": "Shuddh Desi Radio",
+        "url": "https://streamer.radio.co/se30891e37/listen"
+    },
+    {
+        "id": "e69cb0ae-7c5c-4a7d-9910-de6c4408715b",
+        "name": "Sitara FM",
+        "url": "https://server6.radio-streams.net:18048/stream"
+    },
+    {
+        "id": "f2790bcb-d296-4b97-8905-65482f893c89",
+        "name": "Spice Radio Toronto",
+        "url": "https://spiceradioca1.radioca.st/stream"
+    },
+    {
+        "id": "cd269772-d488-4285-a646-3f739039ae5e",
+        "name": "Suno Sharda - 90.8 FM",
+        "url": "https://streamasiacdn.atc-labs.com/shardaradio.aac"
+    },
+    {
+        "id": "ee1fe0bb-7cd5-4834-bb8f-ac0f9cd88656",
+        "name": "Unity 101",
+        "url": "https://ssl.canstream.co.uk:8701/live.mp3"
+    },
+    {
+        "id": "4c9b5f1c-8d3b-4855-9ac0-eb9cf56a2566",
+        "name": "Vividh Bharti Mumbai",
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8"
+    },
+    {
+        "id": "17dcc6b8-e367-4e70-8506-5e048795cba0",
+        "name": "Bol Punjabi Radio",
+        "url": "https://bolpunjabi-ekamsoftware.radioca.st/stream"
+    },
+    {
+        "id": "a71d7e6b-e2c7-4195-84a0-1a9833857b9e",
+        "name": "Bollywood Punjabi Radio",
+        "url": "https://stream.zeno.fm/1k0y9f0cm0quv"
+    },
+    {
+        "id": "9fa0214e-ecb3-46fa-bfaf-bafa8b7adb62",
+        "name": "Brit Asia Radio Punjabi",
+        "url": "https://s4.radio.co/sfefce156f/listen"
+    },
+    {
+        "id": "3e4a1037-06dd-4e66-a58e-a74ec5dfd865",
+        "name": "CIRF-AM 1350 'Radio Humsafar' Brampton, ON",
+        "url": "https://ice66.securenetsystems.net/CIRF"
+    },
+    {
+        "id": "7074da83-945c-4ac0-b8dd-a763678bab84",
+        "name": "CJSA-HD4 CMR Diversity FM 101.3 (Punjabi Stream) Toronto, ON",
+        "url": "https://live.cmr24.net/CMR/Punjabi-MQ/icecast.audio"
+    },
+    {
+        "id": "de22d87f-0a8e-11ea-a87e-52543be04c81",
+        "name": "Desi World Radio (HQ)",
+        "url": "https://desiworldradio.com/stream.m3u"
+    },
+    {
+        "id": "3d673670-d026-4969-a163-b4d9991de133",
+        "name": "Doaba Radio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4467890_SC"
+    },
+    {
+        "id": "7191f94e-a5cf-44d2-9c5b-61ce66cae854",
+        "name": "Dreamz Punjabi Radio",
+        "url": "https://c7.radioboss.fm/stream/52"
+    },
+    {
+        "id": "96910fde-27be-425b-b3d7-5311d8ca0b43",
+        "name": "Harman Radio",
+        "url": "https://radio.sanbroz.com/radio/8000/radio.mp3"
+    },
+    {
+        "id": "bd24e3d2-3e2e-47c4-b0a2-73e551728f4c",
+        "name": "Radio Central 24",
+        "url": "https://casper.radioca.st/;"
+    },
+    {
+        "id": "d06711fe-43a8-444a-b3d7-9c8edfc20447",
+        "name": "Radio Punjab USA",
+        "url": "https://s5.voscast.com:9281/stream"
+    },
+    {
+        "id": "c0d100f5-4b6f-4c4e-811f-6b66e8ca8c8b",
+        "name": "RED FM Toronto 88.9 FM",
+        "url": "https://ice9.securenetsystems.net/CIRVFM"
+    },
+    {
+        "id": "dd23f6bc-d2e8-44c0-bae6-346912e7c198",
+        "name": "Sadda Radio",
+        "url": "https://ais-edge106-live365-dal02.cdnstream.com/a18446"
+    },
+    {
+        "id": "fbca5069-ae75-47d8-860d-954cf9bb85ab",
+        "name": "Srgum Radio",
+        "url": "https://radio-admin.srgum.com/radio/8000/radio.mp3"
+    }
+]
