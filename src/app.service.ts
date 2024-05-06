@@ -526,7 +526,7 @@ export class AppService {
       const channels = JSON.parse(data);
       const sortedChannels = this.moveGovtStationsToEnd(channels, govtNames);
       writeFileSync(
-        'channelNameAndCountry5.json',
+        'channelNameAndCountry6.json',
         JSON.stringify(sortedChannels, null, 2),
       );
     } catch (err) {
